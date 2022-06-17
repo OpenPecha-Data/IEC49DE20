@@ -1,0 +1,53 @@
+id: IEC49DE20
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:04:26.893929'
+last_modified: '2022-06-17T14:04:26.893941'
+parser: null
+source_metadata:
+  title: Saving Lives Series
+  language: bo
+  description: 'The following texts are currently available as part of our Saving
+    Lives series:'
+  volume:
+    f2AEA:
+      title: 'The Stairway to Great Bliss: A Method for Planting the Seed of Liberation
+        in Animals'
+      base_file: f2AEA.txt
+      order: 1
+      parent: Practices
+    fF775:
+      title: 'The Essence of Benefit and Happiness: A Method for Saving Lives'
+      base_file: fF775.txt
+      order: 2
+      parent: Practices
+    f5384:
+      title: 'Increasing Life and Vitality: A Practice for Freeing Lives'
+      base_file: f5384.txt
+      order: 3
+      parent: Practices
+    f50D4:
+      title: 'A River Filled with the Amṛta of Love: A Liturgy for Saving and Releasing
+        the Lives of Animals'
+      base_file: f50D4.txt
+      order: 4
+      parent: Practices
+    f0260:
+      title: 'The Glorious Gift of Longevity and Granting All Desires: A Liturgy for
+        Saving Lives'
+      base_file: f0260.txt
+      order: 5
+      parent: Practices
+    f3619:
+      title: The Benefits of Saving Lives
+      base_file: f3619.txt
+      order: 6
+      parent: Commentaries
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
